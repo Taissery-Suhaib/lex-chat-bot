@@ -47,7 +47,7 @@ STRUCTURE OF BOT AND INVOCATION OF LAMBDA
 
 
 CHANGE THE UI OF BOT
-kommunicate is the platform \==== Specfiy the AMAZON BOT and REGION IN WHICH BOT IS CREATED
+kommunicate is the platform \==== Specfiy the AMAZON BOT and REGION IN WHICH BOT IS CREATED and it kommunicate will generate a peace of code , copy paste it in the web page code under body <body>
 
 ![image](https://github.com/Taissery-Suhaib/lex-chat-bot/assets/134582331/6aff324c-8ad6-4f28-8b32-bce1d73cfeca)
 
