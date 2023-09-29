@@ -1,4 +1,4 @@
-# lex-chat-bot
+# Chatbot using Lex and Lambda
 
 
 **NOTE** : BOT AND INSTANCE SHOULD BE IN THE SAME REGION
@@ -7,7 +7,7 @@ CREATE A EC2:
 ![image](https://github.com/Taissery-Suhaib/lex-chat-bot/assets/134582331/ca6c7f1d-fa83-4d28-9986-e11da4c5078f)
 
 
-< MAKE THE NECESSARY CHANGES TO THE BELOW CODE AS NEEDED >
+< MAKE THE NECESSARY CHANGES TO THE LAAMBDA CODE AS NEEDED >
 ---- LIKE INTENT NAME AND THE LOGIC TO START AND STOP EC2---
 
 LAMBDA CODE :
